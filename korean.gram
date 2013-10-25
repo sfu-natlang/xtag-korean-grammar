@@ -1,0 +1,68 @@
+;;; Korean grammar Ver 2.0
+;;; by Chung-hye Han 
+
+
+(defgrammar korean
+    
+  (:default-pathname (setf user::*korean-directory* "") 
+		     :pretty-name "Korean"
+		     :start-feature "<mode> = decl/imp/int/excl/propos")
+
+  (:tree-files
+           "TMisc.trees" 
+           "TModifier.trees" 
+           "TAuxverb.trees"
+           (:default-pathname (concatenate 'string
+                           user::*korean-directory*
+                           "grammar")
+                  :type "trees")
+  )
+
+  (:family-files 
+           "Tnx0V.trees"
+           "Tnx0nx1V.trees"
+           "Tnx0nxp1V.trees"
+           "Tnx0nxp1nx2V.trees"
+           "Tnx0nxp1N2V.trees" 
+           "Tnx0nxp1s2V.trees"
+           "Tnx0s1V.trees"
+           "Tnx0nxNOM1V.trees"
+           "Tnx0nx1CO.trees"
+           "Tnx0NCO.trees"
+           "Tnx0A.trees"
+           "Tnx0nxNOM1A.trees" 
+           "Tnx0s1A.trees"
+           "Tnx0nxp1A.trees" 
+           "Tnx0NNOMV.trees"
+           "Tnx0nx1NV.trees"
+           (:default-pathname (concatenate 'string
+                           user::*korean-directory*
+                           "grammar")
+                  :type "trees")
+  )
+
+  (:lexicon-files "syntax-coded"
+           (:default-pathname (concatenate 'string
+                           user::*korean-directory*
+                           "syntax")
+                  :type "db")
+  )
+
+  (:morphology-files "trunc_morph"
+           (:default-pathname (concatenate 'string
+                           user::*korean-directory*
+                           "morphology")
+                  :type "db")
+  )
+
+  (:syntax-default "syndefaults"
+                  (:default-pathname (concatenate 'string
+						  user::*korean-directory*
+       						  "syntax")
+		   :type "dat"))
+)
+
+
+
+
+

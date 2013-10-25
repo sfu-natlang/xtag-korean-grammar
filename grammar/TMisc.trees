@@ -1,0 +1,26 @@
+("NP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+
+
+NP.t:<type> = N.t:<type>
+NP.t:<topic>=N.t:<topic>
+NP.t:<aux-pp> = N.t:<aux-pp>
+NP.t:<adv-pp> = N.t:<adv-pp>
+NP.t:<case> = N.t:<case>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . ""))) (((("N" . "")) :headp T)) ) 
+("VP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+
+
+" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("VP" . ""))) (((("V" . "")) :headp T)) ) 
+("SNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+
+S.t:<clause-type>=adnom
+N.t:<case>=NP_f.b:<case>
+NP_f.t:<case>=NP_r.b:<case>
+N.t:<adv-pp>=NP_f.b:<adv-pp>
+NP_f.t:<adv-pp>=NP_r.b:<adv-pp>
+N.t:<aux-pp>=NP_f.b:<aux-pp>
+NP_f.t:<aux-pp>=NP_r.b:<aux-pp>
+N.t:<topic>=NP_f.b:<topic>
+NP_f.t:<topic>=NP_r.b:<topic>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . "r"))) (((("S" . "")) :substp T))  (((("NP" . "f"))) (((("N" . "")) :headp T)) ) ) 

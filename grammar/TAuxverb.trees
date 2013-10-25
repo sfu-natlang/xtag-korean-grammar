@@ -1,0 +1,34 @@
+("VP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+
+V.t:<mode>=VP_r.b:<mode>
+V.t:<clause-type>=VP_r.b:<clause-type>
+V.t:<tense>=VP_r.b:<tense>
+V.t:<assign_case0>=VP_r.b:<assign_case0>
+V.t:<ending>=VP_r.b:<ending>
+V.t:<pre-ending>=VP_r.b:<pre-ending>
+
+VP_f.t:<clause-type>=aux-connect/subord" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("VP" . "r")) :display-feature? T) (((("VP" . "f")) :display-feature? T :footp T :constraints "NA" :constraint-type :NA))  (((("V" . "")) :display-feature? T :headp T)) ) 
+("NP-aux" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+
+N.t:<mode>=NP.b:<mode>
+NP.b:<mode> = NP.t:<mode>
+NP.t:<mode>=VP_r.b:<mode>
+N.t:<tense>=NP.b:<tense>
+NP.b:<tense> = NP.t:<tense>
+NP.t:<tense>=VP_r.b:<tense>
+N.t:<clause-type>=NP.b:<clause-type>
+NP.b:<clause-type> = NP.t:<clause-type>
+NP.t:<clause-type>=VP_r.b:<clause-type>
+N.t:<ending>=NP.b:<ending>
+NP.b:<ending> = NP.t:<ending>
+NP.t:<ending>=VP_r.b:<ending>
+N.t:<pre-ending>=NP.b:<pre-ending>
+NP.b:<pre-ending> = NP.t:<pre-ending>
+NP.t:<pre-ending>=VP_r.b:<pre-ending>
+N.t:<assign_case0>=NP.b:<assign_case0>
+NP.b:<assign_case0> = NP.t:<assign_case0>
+NP.t:<assign_case0>=VP_r.b:<assign_case0>
+
+VP_f.t:<clause-type>=aux-connect/subord" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("VP" . "r")) :display-feature? T) (((("VP" . "f")) :display-feature? T :footp T :constraints "NA" :constraint-type :NA))  (((("NP" . "")) :display-feature? T) (((("N" . "")) :display-feature? T :headp T)) ) ) 

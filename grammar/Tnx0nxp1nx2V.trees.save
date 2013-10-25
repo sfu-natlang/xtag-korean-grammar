@@ -1,0 +1,3673 @@
+("nx0nxp1nx2V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+V.t:<mode> = VP_0.t:<mode>
+VP_0.t:<mode> = VP_1.t:<mode>
+VP_1.t:<mode> = VP_2.b:<mode>
+VP_2.t:<mode> = S_r.b:<mode>
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "2"))) (((("NP" . "1")) :substp T))  (((("VP" . "1"))) (((("NP" . "2")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) ) 
+("e0nxp1nx2V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+V.t:<mode> = VP_0.t:<mode>
+VP_0.t:<mode> = VP_1.t:<mode>
+VP_1.t:<mode> = VP_2.b:<mode>
+VP_2.t:<mode> = S_r.b:<mode>
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>
+
+
+" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "1")) :substp T))  (((("VP" . "1"))) (((("NP" . "2")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) ) 
+("nx0ep1nx2V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_1.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+V.t:<mode> = VP_0.t:<mode>
+VP_0.t:<mode> = VP_1.t:<mode>
+VP_1.t:<mode> = VP_2.b:<mode>
+VP_2.t:<mode> = S_r.b:<mode>
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>
+
+" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "2"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "1"))) (((("NP" . "2")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) ) 
+("e0ep1nx2V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+NP_1.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+V.t:<mode> = VP_0.t:<mode>
+VP_0.t:<mode> = VP_1.t:<mode>
+VP_1.t:<mode> = VP_2.b:<mode>
+VP_2.t:<mode> = S_r.b:<mode>
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "1"))) (((("NP" . "2")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) ) 
+("nx0nxp1e2V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_2.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+V.t:<mode> = VP_0.t:<mode>
+VP_0.t:<mode> = VP_1.t:<mode>
+VP_1.t:<mode> = VP_2.b:<mode>
+VP_2.t:<mode> = S_r.b:<mode>
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "2"))) (((("NP" . "1")) :substp T))  (((("VP" . "1"))) (((("NP" . "2"))) (((("" . "2")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) ) 
+("e0nxp1e2V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+NP_2.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+V.t:<mode> = VP_0.t:<mode>
+VP_0.t:<mode> = VP_1.t:<mode>
+VP_1.t:<mode> = VP_2.b:<mode>
+VP_2.t:<mode> = S_r.b:<mode>
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "1")) :substp T))  (((("VP" . "1"))) (((("NP" . "2")) :constraints "NA" :constraint-type :NA) (((("" . "2")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) ) 
+("nx0ep1e2V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_1.t:<accept_mod>=-
+NP_2.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+V.t:<mode> = VP_0.t:<mode>
+VP_0.t:<mode> = VP_1.t:<mode>
+VP_1.t:<mode> = VP_2.b:<mode>
+VP_2.t:<mode> = S_r.b:<mode>
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "2"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "1"))) (((("NP" . "2")) :constraints "NA" :constraint-type :NA) (((("" . "2")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) ) 
+("e0ep1e2V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+NP_1.t:<accept_mod>=-
+NP_2.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+V.t:<mode> = VP_0.t:<mode>
+VP_0.t:<mode> = VP_1.t:<mode>
+VP_1.t:<mode> = VP_2.b:<mode>
+VP_2.t:<mode> = S_r.b:<mode>
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "1"))) (((("NP" . "2")) :constraints "NA" :constraint-type :NA) (((("" . "2")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) ) 
+("nx0nx2nxp1V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+V.t:<mode> = VP_0.t:<mode>
+VP_0.t:<mode> = VP_1.t:<mode>
+VP_1.t:<mode> = VP_2.b:<mode>
+VP_2.t:<mode> = S_r.b:<mode>
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>	" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "2"))) (((("NP" . "2")) :substp T))  (((("VP" . "1"))) (((("NP" . "1")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) ) 
+("e0nx2nxp1V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+V.t:<mode> = VP_0.t:<mode>
+VP_0.t:<mode> = VP_1.t:<mode>
+VP_1.t:<mode> = VP_2.b:<mode>
+VP_2.t:<mode> = S_r.b:<mode>
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "2")) :substp T))  (((("VP" . "1"))) (((("NP" . "1")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) ) 
+("rg0nxp1nx2V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>
+
+
+S_c.b:<clause-type> = adnom
+S_r.t:<clause-type> = S_c.b:<clause-type>
+NP_f.t:<case>=NP_r.b:<case>
+NP_f.t:<aux-pp>=NP_r.b:<aux-pp>
+NP_f.t:<adv-pp>=NP_r.b:<adv-pp>
+NP_f.t:<topic>=NP_r.b:<topic>
+NP_w.t:<chain> = NP_0.t:<chain>
+NP_w.t:<accept_mod>=-" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . "r"))) (((("S" . "c"))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "1")) :substp T))  (((("VP" . "1"))) (((("NP" . "2")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("NP" . "w")) :constraints "NA" :constraint-type :NA) (((("" . "w")))) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("nx0rgp1nx2V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_1.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>
+
+
+
+S_c.b:<clause-type> = adnom
+S_r.t:<clause-type> = S_c.b:<clause-type>
+NP_f.t:<case>=NP_r.b:<case>
+NP_f.t:<aux-pp>=NP_r.b:<aux-pp>
+NP_f.t:<adv-pp>=NP_r.b:<adv-pp>
+NP_f.t:<topic>=NP_r.b:<topic>
+NP_w.t:<chain>=NP_1.t:<chain>
+NP_w.t:<accept_mod>=-" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . "r"))) (((("S" . "c"))) (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "2"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "1"))) (((("NP" . "2")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("NP" . "w")) :constraints "NA" :constraint-type :NA) (((("" . "w")))) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("nx0nxp1rg2V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_2.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>
+
+
+
+
+S_c.b:<clause-type> = adnom
+S_r.t:<clause-type> = S_c.b:<clause-type>
+NP_f.t:<case>=NP_r.b:<case>
+NP_f.t:<aux-pp>=NP_r.b:<aux-pp>
+NP_f.t:<adv-pp>=NP_r.b:<adv-pp>
+NP_f.t:<topic>=NP_r.b:<topic>
+NP_w.t:<chain>=NP_2.t:<chain>
+NP_w.t:<accept_mod>=-" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . "r"))) (((("S" . "c"))) (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "2"))) (((("NP" . "1")) :substp T))  (((("VP" . "1"))) (((("NP" . "2")) :constraints "NA" :constraint-type :NA) (((("" . "2")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("NP" . "w")) :constraints "NA" :constraint-type :NA) (((("" . "w")))) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("rg0ep1nx2V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+NP_1.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>
+
+
+
+S_c.b:<clause-type> = adnom
+S_r.t:<clause-type> = S_c.b:<clause-type>
+NP_f.t:<case>=NP_r.b:<case>
+NP_f.t:<aux-pp>=NP_r.b:<aux-pp>
+NP_f.t:<adv-pp>=NP_r.b:<adv-pp>
+NP_f.t:<topic>=NP_r.b:<topic>
+NP_w.t:<chain>=NP_0.t:<chain>
+NP_w.t:<accept_mod>=-" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . "r"))) (((("S" . "c"))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "1"))) (((("NP" . "2")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("NP" . "w")) :constraints "NA" :constraint-type :NA) (((("" . "w")))) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("e0rgp1nx2V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+NP_1.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>
+
+
+
+S_c.b:<clause-type> = adnom
+S_r.t:<clause-type> = S_c.b:<clause-type>
+NP_f.t:<case>=NP_r.b:<case>
+NP_f.t:<aux-pp>=NP_r.b:<aux-pp>
+NP_f.t:<topic>=NP_r.b:<topic>
+NP_f.t:<adv-pp>=NP_r.b:<adv-pp>
+NP_w.t:<chain>=NP_1.t:<chain>
+NP_w.t:<accept_mod>=-" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . "r"))) (((("S" . "c"))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "1"))) (((("NP" . "2")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("NP" . "w")) :constraints "NA" :constraint-type :NA) (((("" . "w")))) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("nx0ep1rg2V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_1.t:<accept_mod>=-
+NP_2.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>
+
+
+
+S_c.b:<clause-type> = adnom
+S_r.t:<clause-type> = S_c.b:<clause-type>
+NP_f.t:<case>=NP_r.b:<case>
+NP_f.t:<aux-pp>=NP_r.b:<aux-pp>
+NP_f.t:<adv-pp>=NP_r.b:<adv-pp>
+NP_f.t:<topic>=NP_r.b:<topic>
+NP_w.t:<chain>=NP_2.t:<chain>
+NP_w.t:<accept_mod>=-" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . "r"))) (((("S" . "c"))) (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "2"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "1"))) (((("NP" . "2")) :constraints "NA" :constraint-type :NA) (((("" . "2")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("NP" . "w")) :constraints "NA" :constraint-type :NA) (((("" . "w")))) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("rg0ep1e2V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+NP_1.t:<accept_mod>=-
+NP_2.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>
+
+
+
+S_c.b:<clause-type> = adnom
+S_r.t:<clause-type> = S_c.b:<clause-type>
+NP_f.t:<case>=NP_r.b:<case>
+NP_f.t:<aux-pp>=NP_r.b:<aux-pp>
+NP_f.t:<adv-pp>=NP_r.b:<adv-pp>
+NP_f.t:<topic>=NP_r.b:<topic>
+NP_w.t:<chain>=NP_0.t:<chain>
+NP_w.t:<accept_mod>=-" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . "r"))) (((("S" . "c"))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "1"))) (((("NP" . "2")) :constraints "NA" :constraint-type :NA) (((("" . "2")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("NP" . "w")) :constraints "NA" :constraint-type :NA) (((("" . "w")))) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("e0rgp1e2V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+NP_1.t:<accept_mod>=-
+NP_2.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>
+
+
+S_c.b:<clause-type> = adnom
+S_r.t:<clause-type> = S_c.b:<clause-type>
+NP_f.t:<case>=NP_r.b:<case>
+NP_f.t:<aux-pp>=NP_r.b:<aux-pp>
+NP_f.t:<adv-pp>=NP_r.b:<adv-pp>
+NP_f.t:<topic>=NP_r.b:<topic>
+NP_w.t:<chain>=NP_1.t:<chain>
+NP_w.t:<accept_mod>=-" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . "r"))) (((("S" . "c"))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "1"))) (((("NP" . "2")) :constraints "NA" :constraint-type :NA) (((("" . "2")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("NP" . "w")) :constraints "NA" :constraint-type :NA) (((("" . "w")))) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("e0ep1rg2V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+NP_1.t:<accept_mod>=-
+NP_2.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>
+
+
+
+S_c.b:<clause-type> = adnom
+S_r.t:<clause-type> = S_c.b:<clause-type>
+NP_f.t:<case>=NP_r.b:<case>
+NP_f.t:<aux-pp>=NP_r.b:<aux-pp>
+NP_f.t:<adv-pp>=NP_r.b:<adv-pp>
+NP_f.t:<topic>=NP_r.b:<topic>
+NP_w.t:<chain>=NP_2.t:<chain>
+NP_w.t:<accept_mod>=-" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . "r"))) (((("S" . "c"))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "1"))) (((("" . "1")))) )  (((("VP" . "1"))) (((("NP" . "2")) :constraints "NA" :constraint-type :NA) (((("" . "2")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("NP" . "w")) :constraints "NA" :constraint-type :NA) (((("" . "w")))) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("rg0nx2nxp1V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>
+
+
+
+S_c.b:<clause-type> = adnom
+S_r.t:<clause-type> = S_c.b:<clause-type>
+NP_f.t:<case>=NP_r.b:<case>
+NP_f.t:<aux-pp>=NP_r.b:<aux-pp>
+NP_f.t:<adv-pp>=NP_r.b:<adv-pp>
+NP_f.t:<topic>=NP_r.b:<topic>
+NP_w.t:<chain>=NP_0.t:<chain>
+NP_w.t:<accept_mod>=-
+
+
+
+
+
+
+" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . "r"))) (((("S" . "c"))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "2")) :substp T))  (((("VP" . "1"))) (((("NP" . "1")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("NP" . "w")) :constraints "NA" :constraint-type :NA) (((("" . "w")))) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("nx0nxp1nx2Vsx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_c.b:<tense>
+
+S_c.b:<clause-type> = coord/subord
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_c.b:<clause-type>
+
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_c.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_c.b:<ending>
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>
+
+
+S_f.t:<tense> = S_r.b:<tense> 
+S_f.t:<mode> = S_r.b:<mode>
+S_f.t:<clause-type> = S_r.b:<clause-type> " :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("S" . "r"))) (((("S" . "c"))) (((("NP" . "0")) :substp T))  (((("VP" . "2"))) (((("NP" . "1")) :substp T))  (((("VP" . "1"))) (((("NP" . "2")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("S" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("e0nxp1nx2Vsx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_c.b:<tense>
+
+S_c.b:<clause-type> = coord/subord
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_c.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_c.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_c.b:<ending>
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>
+
+
+S_f.t:<tense> = S_r.b:<tense> 
+S_f.t:<mode> = S_r.b:<mode> 
+S_f.t:<clause-type> = S_r.b:<clause-type> 
+
+" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("S" . "r"))) (((("S" . "c"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "1")) :substp T))  (((("VP" . "1"))) (((("NP" . "2")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("S" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("nx0ep1nx2Vsx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_1.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_c.b:<tense>
+
+S_c.b:<clause-type> = coord/subord
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_c.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_c.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_c.b:<ending>
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>
+
+
+S_f.t:<tense> = S_r.b:<tense> 
+S_f.t:<mode> = S_r.b:<mode> 
+S_f.t:<clause-type> = S_r.b:<clause-type> 
+
+
+" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("S" . "r"))) (((("S" . "c"))) (((("NP" . "0")) :substp T))  (((("VP" . "2"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "1"))) (((("NP" . "2")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("S" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("nx0nxp1_Vsx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_2.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_c.b:<tense>
+
+S_c.b:<clause-type> = coord/subord
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_c.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_c.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_c.b:<ending>
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>
+
+
+S_f.t:<tense> = S_r.b:<tense> 
+S_f.t:<mode> = S_r.b:<mode> 
+S_f.t:<clause-type> = S_r.b:<clause-type> 
+" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("S" . "r"))) (((("S" . "c"))) (((("NP" . "0")) :substp T))  (((("VP" . "2"))) (((("NP" . "1")) :substp T))  (((("VP" . "1"))) (((("NP" . "2")) :constraints "NA" :constraint-type :NA) (((("" . "2")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("S" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("e0ep1nx2Vsx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+NP_1.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_c.b:<tense>
+
+S_c.b:<clause-type> = coord/subord
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_c.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_c.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_c.b:<ending>
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>
+
+
+S_f.t:<tense> = S_r.b:<tense> 
+S_f.t:<mode> = S_r.b:<mode> 
+S_f.t:<clause-type> = S_r.b:<clause-type>
+
+" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("S" . "r"))) (((("S" . "c"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "1"))) (((("NP" . "2")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("S" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("e0nxp1e2Vsx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+NP_2.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_c.b:<tense>
+
+S_c.b:<clause-type> = coord/subord
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_c.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_c.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_c.b:<ending>
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>
+
+
+S_f.t:<tense> = S_r.b:<tense> 
+S_f.t:<mode> = S_r.b:<mode> 
+S_f.t:<clause-type> = S_r.b:<clause-type> 
+" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("S" . "r"))) (((("S" . "c"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "1")) :substp T))  (((("VP" . "1"))) (((("NP" . "2")) :constraints "NA" :constraint-type :NA) (((("" . "2")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("S" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("e0ep1e2Vsx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+NP_1.t:<accept_mod>=-
+NP_2.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_c.b:<tense>
+
+S_c.b:<clause-type> = coord/subord
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_c.b:<clause-type>
+
+
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_c.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_c.b:<ending>
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>
+
+
+S_f.t:<tense> = S_r.b:<tense> 
+S_f.t:<mode> = S_r.b:<mode> 
+S_f.t:<clause-type> = S_r.b:<clause-type> 
+" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("S" . "r"))) (((("S" . "c"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "1"))) (((("NP" . "2")) :constraints "NA" :constraint-type :NA) (((("" . "2")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("S" . "f")) :footp T)) ) 
+("nx0nx2nxp1Vsx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_c.b:<tense>
+
+S_c.b:<clause-type> = coord/subord
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_c.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_c.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_c.b:<ending>
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>
+
+
+S_f.t:<tense> = S_r.b:<tense> 
+S_f.t:<mode> = S_r.b:<mode> 
+S_f.t:<clause-type> = S_r.b:<clause-type> 
+" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("S" . "r"))) (((("S" . "c"))) (((("NP" . "0")) :substp T))  (((("VP" . "2"))) (((("NP" . "2")) :substp T))  (((("VP" . "1"))) (((("NP" . "1")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("S" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("e0nx2nxp1Vsx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_c.b:<tense>
+
+S_c.b:<clause-type> = coord/subord
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_c.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_c.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_c.b:<ending>
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>
+
+
+S_f.t:<tense> = S_r.b:<tense> 
+S_f.t:<mode> = S_r.b:<mode> 
+S_f.t:<clause-type> = S_r.b:<clause-type>
+
+
+" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("S" . "r"))) (((("S" . "c"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "2")) :substp T))  (((("VP" . "1"))) (((("NP" . "1")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("S" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("nx0ep1e2Vsx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_1.t:<accept_mod>=-
+NP_2.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+V.t:<mode> = VP_0.t:<mode>
+VP_0.t:<mode> = VP_1.t:<mode>
+VP_1.t:<mode> = VP_2.b:<mode>
+VP_2.t:<mode> = S_r.b:<mode>
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_c.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_c.b:<ending>
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+V.t:<case> = VP_0.t:<case>
+VP_0.t:<case> = VP_1.t:<case>
+VP_1.t:<case> = VP_2.t:<case>
+VP_2.t:<case> = S_r.t:<case> 
+S_r.t:<case> = NP.b:<case>
+
+V.t:<aux-pp> = VP_0.t:<aux-pp>
+VP_0.t:<aux-pp> = VP_1.t:<aux-pp>
+VP_1.t:<aux-pp> = VP_2.t:<aux-pp>
+VP_2.t:<aux-pp> = S_r.t:<aux-pp> 
+S_r.t:<aux-pp> = NP.b:<aux-pp>
+
+
+VP_f.t:<assign_case0>=VP_r.b:<assign_case0>
+VP_f.t:<tense>=VP_r.b:<tense>
+VP_f.t:<mode>=VP_r.b:<mode>
+VP_f.t:<clause-type>=VP_r.b:<clause-type>
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("VP" . "r"))) (((("NP" . ""))) (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "2"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "1"))) (((("NP" . "2")) :constraints "NA" :constraint-type :NA) (((("" . "2")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) ) )  (((("VP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("nx0nxp1nx2VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+
+V.t:<case> = VP_0.t:<case>
+VP_0.t:<case> = VP_1.t:<case>
+VP_1.t:<case> = VP_2.b:<case>
+VP_2.t:<case> = S_r.t:<case>
+S_r.t:<case> = NP.b:<case>
+
+V.t:<aux-pp> = VP_0.t:<aux-pp>
+VP_0.t:<aux-pp> = VP_1.t:<aux-pp>
+VP_1.t:<aux-pp> = VP_2.b:<aux-pp>
+VP_2.t:<aux-pp> = S_r.t:<aux-pp>
+S_r.t:<aux-pp> = NP.b:<aux-pp>
+
+V.t:<adv-pp> = VP_0.t:<adv-pp>
+VP_0.t:<adv-pp> = VP_1.t:<adv-pp>
+VP_1.t:<adv-pp> = VP_2.b:<adv-pp>
+VP_2.t:<adv-pp> = S_r.t:<adv-pp>
+S_r.t:<adv-pp> = NP.b:<adv-pp>
+
+
+V.t:<topic> = VP_0.t:<topic>
+VP_0.t:<topic> = VP_1.t:<topic>
+VP_1.t:<topic> = VP_2.b:<topic>
+VP_2.t:<topic> = S_r.t:<topic>
+S_r.t:<topic> = NP.b:<topic>
+
+S_r.b:<clause-type> = nominal
+S_r.b:<ending>=ki/um
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . ""))) (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "2"))) (((("NP" . "1")) :substp T))  (((("VP" . "1"))) (((("NP" . "2")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) ) ) 
+("e0nxp1nx2VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+
+
+V.t:<case> = VP_0.t:<case>
+VP_0.t:<case> = VP_1.t:<case>
+VP_1.t:<case> = VP_2.b:<case>
+VP_2.t:<case> = S_r.t:<case>
+S_r.t:<case> = NP.b:<case>
+
+V.t:<aux-pp> = VP_0.t:<aux-pp>
+VP_0.t:<aux-pp> = VP_1.t:<aux-pp>
+VP_1.t:<aux-pp> = VP_2.b:<aux-pp>
+VP_2.t:<aux-pp> = S_r.t:<aux-pp>
+S_r.t:<aux-pp> = NP.b:<aux-pp>
+
+V.t:<adv-pp> = VP_0.t:<adv-pp>
+VP_0.t:<adv-pp> = VP_1.t:<adv-pp>
+VP_1.t:<adv-pp> = VP_2.b:<adv-pp>
+VP_2.t:<adv-pp> = S_r.t:<adv-pp>
+S_r.t:<adv-pp> = NP.b:<adv-pp>
+
+
+V.t:<topic> = VP_0.t:<topic>
+VP_0.t:<topic> = VP_1.t:<topic>
+VP_1.t:<topic> = VP_2.b:<topic>
+VP_2.t:<topic> = S_r.t:<topic>
+S_r.t:<topic> = NP.b:<topic>
+
+
+S_r.b:<clause-type> = nominal
+S_r.b:<ending>=ki/um
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>
+
+
+" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . ""))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "1")) :substp T))  (((("VP" . "1"))) (((("NP" . "2")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) ) ) 
+("nx0ep1nx2VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_1.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+
+V.t:<case> = VP_0.t:<case>
+VP_0.t:<case> = VP_1.t:<case>
+VP_1.t:<case> = VP_2.b:<case>
+VP_2.t:<case> = S_r.t:<case>
+S_r.t:<case> = NP.b:<case>
+
+
+V.t:<aux-pp> = VP_0.t:<aux-pp>
+VP_0.t:<aux-pp> = VP_1.t:<aux-pp>
+VP_1.t:<aux-pp> = VP_2.b:<aux-pp>
+VP_2.t:<aux-pp> = S_r.t:<aux-pp>
+S_r.t:<aux-pp> = NP.b:<aux-pp>
+
+V.t:<adv-pp> = VP_0.t:<adv-pp>
+VP_0.t:<adv-pp> = VP_1.t:<adv-pp>
+VP_1.t:<adv-pp> = VP_2.b:<adv-pp>
+VP_2.t:<adv-pp> = S_r.t:<adv-pp>
+S_r.t:<adv-pp> = NP.b:<adv-pp>
+
+
+V.t:<topic> = VP_0.t:<topic>
+VP_0.t:<topic> = VP_1.t:<topic>
+VP_1.t:<topic> = VP_2.b:<topic>
+VP_2.t:<topic> = S_r.t:<topic>
+S_r.t:<topic> = NP.b:<topic>
+
+
+S_r.b:<clause-type> = nominal
+S_r.b:<ending>=ki/um
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>
+
+" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . ""))) (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "2"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "1"))) (((("NP" . "2")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) ) ) 
+("e0ep1nx2VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+NP_1.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+
+V.t:<case> = VP_0.t:<case>
+VP_0.t:<case> = VP_1.t:<case>
+VP_1.t:<case> = VP_2.b:<case>
+VP_2.t:<case> = S_r.t:<case>
+S_r.t:<case> = NP.b:<case>
+
+V.t:<aux-pp> = VP_0.t:<aux-pp>
+VP_0.t:<aux-pp> = VP_1.t:<aux-pp>
+VP_1.t:<aux-pp> = VP_2.b:<aux-pp>
+VP_2.t:<aux-pp> = S_r.t:<aux-pp>
+S_r.t:<aux-pp> = NP.b:<aux-pp>
+
+V.t:<adv-pp> = VP_0.t:<adv-pp>
+VP_0.t:<adv-pp> = VP_1.t:<adv-pp>
+VP_1.t:<adv-pp> = VP_2.b:<adv-pp>
+VP_2.t:<adv-pp> = S_r.t:<adv-pp>
+S_r.t:<adv-pp> = NP.b:<adv-pp>
+
+
+V.t:<topic> = VP_0.t:<topic>
+VP_0.t:<topic> = VP_1.t:<topic>
+VP_1.t:<topic> = VP_2.b:<topic>
+VP_2.t:<topic> = S_r.t:<topic>
+S_r.t:<topic> = NP.b:<topic>
+
+
+S_r.b:<clause-type> = nominal
+S_r.b:<ending>=ki/um
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . ""))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "1"))) (((("NP" . "2")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) ) ) 
+("nx0nxp1e2VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_2.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+
+V.t:<case> = VP_0.t:<case>
+VP_0.t:<case> = VP_1.t:<case>
+VP_1.t:<case> = VP_2.b:<case>
+VP_2.t:<case> = S_r.t:<case>
+S_r.t:<case> = NP.b:<case>
+
+V.t:<aux-pp> = VP_0.t:<aux-pp>
+VP_0.t:<aux-pp> = VP_1.t:<aux-pp>
+VP_1.t:<aux-pp> = VP_2.b:<aux-pp>
+VP_2.t:<aux-pp> = S_r.t:<aux-pp>
+S_r.t:<aux-pp> = NP.b:<aux-pp>
+
+V.t:<adv-pp> = VP_0.t:<adv-pp>
+VP_0.t:<adv-pp> = VP_1.t:<adv-pp>
+VP_1.t:<adv-pp> = VP_2.b:<adv-pp>
+VP_2.t:<adv-pp> = S_r.t:<adv-pp>
+S_r.t:<adv-pp> = NP.b:<adv-pp>
+
+
+V.t:<topic> = VP_0.t:<topic>
+VP_0.t:<topic> = VP_1.t:<topic>
+VP_1.t:<topic> = VP_2.b:<topic>
+VP_2.t:<topic> = S_r.t:<topic>
+S_r.t:<topic> = NP.b:<topic>
+
+S_r.b:<clause-type> = nominal
+S_r.b:<ending>=ki/um
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . ""))) (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "2"))) (((("NP" . "1")) :substp T))  (((("VP" . "1"))) (((("NP" . "2"))) (((("" . "2")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) ) ) 
+("e0nxp1e2VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+NP_2.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+
+V.t:<case> = VP_0.t:<case>
+VP_0.t:<case> = VP_1.t:<case>
+VP_1.t:<case> = VP_2.b:<case>
+VP_2.t:<case> = S_r.t:<case>
+S_r.t:<case> = NP.b:<case>
+
+V.t:<aux-pp> = VP_0.t:<aux-pp>
+VP_0.t:<aux-pp> = VP_1.t:<aux-pp>
+VP_1.t:<aux-pp> = VP_2.b:<aux-pp>
+VP_2.t:<aux-pp> = S_r.t:<aux-pp>
+S_r.t:<aux-pp> = NP.b:<aux-pp>
+
+V.t:<adv-pp> = VP_0.t:<adv-pp>
+VP_0.t:<adv-pp> = VP_1.t:<adv-pp>
+VP_1.t:<adv-pp> = VP_2.b:<adv-pp>
+VP_2.t:<adv-pp> = S_r.t:<adv-pp>
+S_r.t:<adv-pp> = NP.b:<adv-pp>
+
+
+V.t:<topic> = VP_0.t:<topic>
+VP_0.t:<topic> = VP_1.t:<topic>
+VP_1.t:<topic> = VP_2.b:<topic>
+VP_2.t:<topic> = S_r.t:<topic>
+S_r.t:<topic> = NP.b:<topic>
+
+S_r.b:<clause-type> = nominal
+S_r.b:<ending>=ki/um
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . ""))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "1")) :substp T))  (((("VP" . "1"))) (((("NP" . "2")) :constraints "NA" :constraint-type :NA) (((("" . "2")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) ) ) 
+("nx0ep1e2VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_1.t:<accept_mod>=-
+NP_2.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+
+V.t:<case> = VP_0.t:<case>
+VP_0.t:<case> = VP_1.t:<case>
+VP_1.t:<case> = VP_2.b:<case>
+VP_2.t:<case> = S_r.t:<case>
+S_r.t:<case> = NP.b:<case>
+
+V.t:<aux-pp> = VP_0.t:<aux-pp>
+VP_0.t:<aux-pp> = VP_1.t:<aux-pp>
+VP_1.t:<aux-pp> = VP_2.b:<aux-pp>
+VP_2.t:<aux-pp> = S_r.t:<aux-pp>
+S_r.t:<aux-pp> = NP.b:<aux-pp>
+
+
+V.t:<adv-pp> = VP_0.t:<adv-pp>
+VP_0.t:<adv-pp> = VP_1.t:<adv-pp>
+VP_1.t:<adv-pp> = VP_2.b:<adv-pp>
+VP_2.t:<adv-pp> = S_r.t:<adv-pp>
+S_r.t:<adv-pp> = NP.b:<adv-pp>
+
+
+V.t:<topic> = VP_0.t:<topic>
+VP_0.t:<topic> = VP_1.t:<topic>
+VP_1.t:<topic> = VP_2.b:<topic>
+VP_2.t:<topic> = S_r.t:<topic>
+S_r.t:<topic> = NP.b:<topic>
+
+S_r.b:<clause-type> = nominal
+S_r.b:<ending>=ki/um
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . ""))) (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "2"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "1"))) (((("NP" . "2")) :constraints "NA" :constraint-type :NA) (((("" . "2")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) ) ) 
+("e0ep1e2VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+NP_1.t:<accept_mod>=-
+NP_2.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+
+V.t:<case> = VP_0.t:<case>
+VP_0.t:<case> = VP_1.t:<case>
+VP_1.t:<case> = VP_2.b:<case>
+VP_2.t:<case> = S_r.t:<case>
+S_r.t:<case> = NP.b:<case>
+
+V.t:<aux-pp> = VP_0.t:<aux-pp>
+VP_0.t:<aux-pp> = VP_1.t:<aux-pp>
+VP_1.t:<aux-pp> = VP_2.b:<aux-pp>
+VP_2.t:<aux-pp> = S_r.t:<aux-pp>
+S_r.t:<aux-pp> = NP.b:<aux-pp>
+
+V.t:<adv-pp> = VP_0.t:<adv-pp>
+VP_0.t:<adv-pp> = VP_1.t:<adv-pp>
+VP_1.t:<adv-pp> = VP_2.b:<adv-pp>
+VP_2.t:<adv-pp> = S_r.t:<adv-pp>
+S_r.t:<adv-pp> = NP.b:<adv-pp>
+
+
+V.t:<topic> = VP_0.t:<topic>
+VP_0.t:<topic> = VP_1.t:<topic>
+VP_1.t:<topic> = VP_2.b:<topic>
+VP_2.t:<topic> = S_r.t:<topic>
+S_r.t:<topic> = NP.b:<topic>
+
+S_r.b:<clause-type> = nominal
+S_r.b:<ending>=ki/um
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . ""))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "1"))) (((("NP" . "2")) :constraints "NA" :constraint-type :NA) (((("" . "2")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) ) ) 
+("nx0nx2nxp1VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+
+V.t:<case> = VP_0.t:<case>
+VP_0.t:<case> = VP_1.t:<case>
+VP_1.t:<case> = VP_2.b:<case>
+VP_2.t:<case> = S_r.t:<case>
+S_r.t:<case> = NP.b:<case>
+
+V.t:<aux-pp> = VP_0.t:<aux-pp>
+VP_0.t:<aux-pp> = VP_1.t:<aux-pp>
+VP_1.t:<aux-pp> = VP_2.b:<aux-pp>
+VP_2.t:<aux-pp> = S_r.t:<aux-pp>
+S_r.t:<aux-pp> = NP.b:<aux-pp>
+
+V.t:<adv-pp> = VP_0.t:<adv-pp>
+VP_0.t:<adv-pp> = VP_1.t:<adv-pp>
+VP_1.t:<adv-pp> = VP_2.b:<adv-pp>
+VP_2.t:<adv-pp> = S_r.t:<adv-pp>
+S_r.t:<adv-pp> = NP.b:<adv-pp>
+
+
+V.t:<topic> = VP_0.t:<topic>
+VP_0.t:<topic> = VP_1.t:<topic>
+VP_1.t:<topic> = VP_2.b:<topic>
+VP_2.t:<topic> = S_r.t:<topic>
+S_r.t:<topic> = NP.b:<topic>
+
+
+S_r.b:<clause-type> = nominal
+S_r.b:<ending>=ki/um
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>	" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . ""))) (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "2"))) (((("NP" . "2")) :substp T))  (((("VP" . "1"))) (((("NP" . "1")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) ) ) 
+("e0nx2nxp1VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+
+V.t:<case> = VP_0.t:<case>
+VP_0.t:<case> = VP_1.t:<case>
+VP_1.t:<case> = VP_2.b:<case>
+VP_2.t:<case> = S_r.t:<case>
+S_r.t:<case> = NP.b:<case>
+
+V.t:<aux-pp> = VP_0.t:<aux-pp>
+VP_0.t:<aux-pp> = VP_1.t:<aux-pp>
+VP_1.t:<aux-pp> = VP_2.b:<aux-pp>
+VP_2.t:<aux-pp> = S_r.t:<aux-pp>
+S_r.t:<aux-pp> = NP.b:<aux-pp>
+
+V.t:<adv-pp> = VP_0.t:<adv-pp>
+VP_0.t:<adv-pp> = VP_1.t:<adv-pp>
+VP_1.t:<adv-pp> = VP_2.b:<adv-pp>
+VP_2.t:<adv-pp> = S_r.t:<adv-pp>
+S_r.t:<adv-pp> = NP.b:<adv-pp>
+
+
+V.t:<topic> = VP_0.t:<topic>
+VP_0.t:<topic> = VP_1.t:<topic>
+VP_1.t:<topic> = VP_2.b:<topic>
+VP_2.t:<topic> = S_r.t:<topic>
+S_r.t:<topic> = NP.b:<topic>
+
+
+S_r.b:<clause-type> = nominal
+S_r.b:<ending>=ki/um
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . ""))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "2")) :substp T))  (((("VP" . "1"))) (((("NP" . "1")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) ) ) 
+("nx0nxp1nx2VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+NP_f.t:<case> =  NP_r.b:<case>
+NP_f.t:<aux-pp> =  NP_r.b:<aux-pp>
+NP_f.t:<adv-pp> =  NP_r.b:<adv-pp>
+NP_f.t:<topic> =  NP_r.b:<topic>
+NP_f.t:<type> =  NP_r.b:<type>
+
+
+S_r.b:<clause-type> = adnom
+
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . "r"))) (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "2"))) (((("NP" . "1")) :substp T))  (((("VP" . "1"))) (((("NP" . "2")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("e0nxp1nx2VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_w.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+NP_f.t:<case> =  NP_r.b:<case>
+NP_f.t:<aux-pp> =  NP_r.b:<aux-pp>
+NP_f.t:<adv-pp> =  NP_r.b:<adv-pp>
+NP_f.t:<topic> =  NP_r.b:<topic>
+NP_f.t:<type> =  NP_r.b:<type>
+
+S_r.b:<clause-type> = adnom
+
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>
+
+
+" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . "r"))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "1")) :substp T))  (((("VP" . "1"))) (((("NP" . "2")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("nx0ep1nx2VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_1.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+NP_f.t:<case> =  NP_r.b:<case>
+NP_f.t:<aux-pp> =  NP_r.b:<aux-pp>
+NP_f.t:<adv-pp> =  NP_r.b:<adv-pp>
+NP_f.t:<topic> =  NP_r.b:<topic>
+NP_f.t:<type> =  NP_r.b:<type>
+
+S_r.b:<clause-type> = adnom
+
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>
+
+" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . "r"))) (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "2"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "1"))) (((("NP" . "2")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("e0ep1nx2VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+NP_1.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+
+NP_f.t:<case> =  NP_r.b:<case>
+NP_f.t:<aux-pp> =  NP_r.b:<aux-pp>
+NP_f.t:<adv-pp> =  NP_r.b:<adv-pp>
+NP_f.t:<topic> =  NP_r.b:<topic>
+NP_f.t:<type> =  NP_r.b:<type>
+
+S_r.b:<clause-type> = adnom
+
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . "r"))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "1"))) (((("NP" . "2")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("nx0nxp1e2VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_2.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+NP_f.t:<case> =  NP_r.b:<case>
+NP_f.t:<aux-pp> =  NP_r.b:<aux-pp>
+NP_f.t:<adv-pp> =  NP_r.b:<adv-pp>
+NP_f.t:<topic> =  NP_r.b:<topic>
+NP_f.t:<type> =  NP_r.b:<type>
+
+S_r.b:<clause-type> = adnom
+
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . "r"))) (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "2"))) (((("NP" . "1")) :substp T))  (((("VP" . "1"))) (((("NP" . "2"))) (((("" . "2")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("e0nxp1e2VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+NP_2.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+NP_f.t:<case> =  NP_r.b:<case>
+NP_f.t:<aux-pp> =  NP_r.b:<aux-pp>
+NP_f.t:<adv-pp> =  NP_r.b:<adv-pp>
+NP_f.t:<topic> =  NP_r.b:<topic>
+NP_f.t:<type> =  NP_r.b:<type>
+
+S_r.b:<clause-type> = adnom
+
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . "r"))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "1")) :substp T))  (((("VP" . "1"))) (((("NP" . "2")) :constraints "NA" :constraint-type :NA) (((("" . "2")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("nx0ep1e2VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_1.t:<accept_mod>=-
+NP_2.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+NP_f.t:<case> =  NP_r.b:<case>
+NP_f.t:<aux-pp> =  NP_r.b:<aux-pp>
+NP_f.t:<adv-pp> =  NP_r.b:<adv-pp>
+NP_f.t:<topic> =  NP_r.b:<topic>
+NP_f.t:<type> =  NP_r.b:<type>
+
+S_r.b:<clause-type> = adnom
+
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . "r"))) (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "2"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "1"))) (((("NP" . "2")) :constraints "NA" :constraint-type :NA) (((("" . "2")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("e0ep1e2VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+NP_1.t:<accept_mod>=-
+NP_2.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+NP_f.t:<case> =  NP_r.b:<case>
+NP_f.t:<aux-pp> =  NP_r.b:<aux-pp>
+NP_f.t:<adv-pp> =  NP_r.b:<adv-pp>
+NP_f.t:<topic> =  NP_r.b:<topic>
+NP_f.t:<type> =  NP_r.b:<type>
+
+S_r.b:<clause-type> = adnom
+
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . "r"))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "1"))) (((("NP" . "2")) :constraints "NA" :constraint-type :NA) (((("" . "2")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("nx0nx2nxp1VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+NP_f.t:<case> =  NP_r.b:<case>
+NP_f.t:<aux-pp> =  NP_r.b:<aux-pp>
+NP_f.t:<adv-pp> =  NP_r.b:<adv-pp>
+NP_f.t:<topic> =  NP_r.b:<topic>
+NP_f.t:<type> =  NP_r.b:<type>
+
+S_r.b:<clause-type> = adnom
+
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>	" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . "r"))) (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "2"))) (((("NP" . "2")) :substp T))  (((("VP" . "1"))) (((("NP" . "1")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("e0nx2nxp1VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+NP_f.t:<case> =  NP_r.b:<case>
+NP_f.t:<aux-pp> =  NP_r.b:<aux-pp>
+NP_f.t:<adv-pp> =  NP_r.b:<adv-pp>
+NP_f.t:<topic> =  NP_r.b:<topic>
+NP_f.t:<type> =  NP_r.b:<type>
+
+S_r.b:<clause-type> = adnom
+
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . "r"))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "2")) :substp T))  (((("VP" . "1"))) (((("NP" . "1")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("nx0nxp1nx2Vvx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+
+VP_f.t:<assign_case0>=VP_r.b:<assign_case0>
+VP_f.t:<tense>=VP_r.b:<tense>
+VP_f.t:<mode>=VP_r.b:<mode>
+VP_f.t:<clause-type>=VP_r.b:<clause-type>
+
+S_r.b:<clause-type> = coord/subord
+
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("VP" . "r"))) (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "2"))) (((("NP" . "1")) :substp T))  (((("VP" . "1"))) (((("NP" . "2")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("VP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("e0nxp1nx2Vvx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+VP_f.t:<assign_case0>=VP_r.b:<assign_case0>
+VP_f.t:<tense>=VP_r.b:<tense>
+VP_f.t:<mode>=VP_r.b:<mode>
+VP_f.t:<clause-type>=VP_r.b:<clause-type>
+
+S_r.b:<clause-type> = coord/subord
+
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>
+
+
+" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("VP" . "r"))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "1")) :substp T))  (((("VP" . "1"))) (((("NP" . "2")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("VP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("nx0ep1nx2Vvx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_1.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+VP_f.t:<assign_case0>=VP_r.b:<assign_case0>
+VP_f.t:<tense>=VP_r.b:<tense>
+VP_f.t:<mode>=VP_r.b:<mode>
+VP_f.t:<clause-type>=VP_r.b:<clause-type>
+
+S_r.b:<clause-type> = coord/subord
+
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>
+
+" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("VP" . "r"))) (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "2"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "1"))) (((("NP" . "2")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("VP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("e0ep1nx2Vvx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+NP_1.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+VP_f.t:<assign_case0>=VP_r.b:<assign_case0>
+VP_f.t:<tense>=VP_r.b:<tense>
+VP_f.t:<mode>=VP_r.b:<mode>
+VP_f.t:<clause-type>=VP_r.b:<clause-type>
+
+
+S_r.b:<clause-type> = coord/subord
+
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("VP" . "r"))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "1"))) (((("NP" . "2")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("VP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("nx0nxp1e2Vvx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_2.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+VP_f.t:<assign_case0>=VP_r.b:<assign_case0>
+VP_f.t:<tense>=VP_r.b:<tense>
+VP_f.t:<mode>=VP_r.b:<mode>
+VP_f.t:<clause-type>=VP_r.b:<clause-type>
+
+S_r.b:<clause-type> = coord/subord
+
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("VP" . "r"))) (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "2"))) (((("NP" . "1")) :substp T))  (((("VP" . "1"))) (((("NP" . "2"))) (((("" . "2")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("VP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("e0nxp1e2Vvx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+NP_2.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+VP_f.t:<assign_case0>=VP_r.b:<assign_case0>
+VP_f.t:<tense>=VP_r.b:<tense>
+VP_f.t:<mode>=VP_r.b:<mode>
+VP_f.t:<clause-type>=VP_r.b:<clause-type>
+
+S_r.b:<clause-type> = coord/subord
+
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("VP" . "r"))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "1")) :substp T))  (((("VP" . "1"))) (((("NP" . "2")) :constraints "NA" :constraint-type :NA) (((("" . "2")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("VP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("nx0ep1e2Vvx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_1.t:<accept_mod>=-
+NP_2.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+VP_f.t:<assign_case0>=VP_r.b:<assign_case0>
+VP_f.t:<tense>=VP_r.b:<tense>
+VP_f.t:<mode>=VP_r.b:<mode>
+VP_f.t:<clause-type>=VP_r.b:<clause-type>
+
+S_r.b:<clause-type> = coord/subord
+
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("VP" . "r"))) (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "2"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "1"))) (((("NP" . "2")) :constraints "NA" :constraint-type :NA) (((("" . "2")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("VP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("e0ep1e2Vvx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+NP_1.t:<accept_mod>=-
+NP_2.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+VP_f.t:<assign_case0>=VP_r.b:<assign_case0>
+VP_f.t:<tense>=VP_r.b:<tense>
+VP_f.t:<mode>=VP_r.b:<mode>
+VP_f.t:<clause-type>=VP_r.b:<clause-type>
+
+S_r.b:<clause-type> = coord/subord
+
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("VP" . "r"))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "1"))) (((("NP" . "2")) :constraints "NA" :constraint-type :NA) (((("" . "2")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("VP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("nx0nx2nxp1Vvx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+VP_f.t:<assign_case0>=VP_r.b:<assign_case0>
+VP_f.t:<tense>=VP_r.b:<tense>
+VP_f.t:<mode>=VP_r.b:<mode>
+VP_f.t:<clause-type>=VP_r.b:<clause-type>
+
+S_r.b:<clause-type> = coord/subord
+
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>	" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("VP" . "r"))) (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "2"))) (((("NP" . "2")) :substp T))  (((("VP" . "1"))) (((("NP" . "1")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("VP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+("e0nx2nxp1Vvx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+V.t:<assign_case0> = VP_0.t:<assign_case0>
+VP_0.t:<assign_case0> =   VP_1.t:<assign_case0>
+VP_1.t:<assign_case0> = VP_2.b:<assign_case0>
+VP_2.t:<assign_case0> = NP_0.t:<case>
+NP_0.t:<case> = nom
+NP_0.t:<accept_mod>=-
+V.t:<tense> = VP_0.t:<tense>
+VP_0.t:<tense> = VP_1.t:<tense>
+VP_1.t:<tense> = VP_2.b:<tense>
+VP_2.t:<tense> = S_r.b:<tense>
+
+V.t:<clause-type> = VP_0.t:<clause-type>
+VP_0.t:<clause-type> = VP_1.t:<clause-type>
+VP_1.t:<clause-type> = VP_2.b:<clause-type>
+VP_2.t:<clause-type> = S_r.b:<clause-type>
+V.t:<pre-ending> = VP_0.t:<pre-ending>
+VP_0.t:<pre-ending> = VP_1.t:<pre-ending>
+VP_1.t:<pre-ending> = VP_2.b:<pre-ending>
+VP_2.t:<pre-ending> = S_r.b:<pre-ending>
+V.t:<ending> = VP_0.t:<ending>
+VP_0.t:<ending> = VP_1.t:<ending>
+VP_1.t:<ending> = VP_2.b:<ending>
+VP_2.t:<ending> = S_r.b:<ending>
+
+V.t:<assign_case2> = VP_0.t:<assign_case2>
+VP_0.t:<assign_case2> = VP_1.t:<assign_case2> 
+VP_1.t:<assign_case2>  = VP_2.b:<assign_case2>
+VP_2.b:<assign_case2> = NP_2.t:<case>
+NP_2.t:<case>=acc
+V.t:<assign_case1> = VP_0.t:<assign_case1>
+VP_0.t:<assign_case1> = VP_1.t:<assign_case1>
+VP_1.t:<assign_case1> = VP_2.b:<assign_case1>
+VP_2.b:<assign_case1> = NP_1.t:<case>
+NP_1.t:<case>=adv
+VP_f.t:<assign_case0>=VP_r.b:<assign_case0>
+VP_f.t:<tense>=VP_r.b:<tense>
+VP_f.t:<mode>=VP_r.b:<mode>
+VP_f.t:<clause-type>=VP_r.b:<clause-type>
+
+S_r.b:<clause-type> = coord/subord
+
+
+V.t:<arg1_type> = VP_0.t:<arg1_type>
+VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
+VP_1.t:<arg1_type> =  VP_2.t:<arg1_type>
+VP_2.t:<arg1_type> = NP_0.t:<type>
+V.t:<arg2_type> = VP_0.t:<arg2_type>
+VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
+VP_1.t:<arg2_type> =  VP_2.b:<arg2_type>
+VP_2.b:<arg2_type> =   NP_1.t:<type>
+V.t:<arg3_type> = VP_0.t:<arg3_type>
+VP_0.t:<arg3_type> = VP_1.t:<arg3_type>
+VP_1.t:<arg3_type> = VP_2.b:<arg3_type>
+VP_2.b:<arg3_type> =  NP_2.t:<type>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("VP" . "r"))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "2"))) (((("NP" . "2")) :substp T))  (((("VP" . "1"))) (((("NP" . "1")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("VP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
