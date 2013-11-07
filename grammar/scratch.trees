@@ -1,0 +1,103 @@
+("NP-nom" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+
+
+NP.t:<topic>=N.t:<topic>
+NP.t:<case> = N.t:<case>
+N.t:<case> = nom
+N.t:<topic> = -
+NP.t:<adv-pp> = N.t:<adv-pp>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . ""))) (((("N" . ""))) (((("cihwikwani" . "")))) ) ) 
+("NP-acc" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+
+
+NP.t:<case> = N.t:<case>
+NP.t:<topic> = N.t:<topic>
+N.t:<case> = acc
+N.t:<topic> = -
+NP.t:<adv-pp> = N.t:<adv-pp>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . ""))) (((("N" . ""))) (((("cihwikwnaul" . "")))) ) ) 
+("NP-eykey" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+
+
+
+NP.t:<topic>=N.t:<topic>
+NP.t:<adv-pp> = N.t:<adv-pp>
+NP.t:<case> = N.t:<case>
+N.t:<topic> = -
+N.t:<case> = adv
+N.t:<adv-pp> = eykey" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("NP" . ""))) (((("N" . ""))) (((("cihiwkwaneykey" . "")))) ) ) 
+("S-decl" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+
+
+V.t:<tense>=pres
+V.t:<mode>=decl
+V.t:<clause-type>=main
+V.t:<ending>=ta
+V.t:<pre-ending>=n
+
+V.t:<tense> = VP.b:<tense>
+VP.t:<tense> = S_r.b:<tense>
+V.t:<mode> = VP.b:<mode>
+VP.t:<mode> = S_r.b:<mode>
+V.t:<clause-type> = VP.b:<clause-type>
+VP.t:<clause-type> = S_r.b:<clause-type>
+V.t:<ending> = VP.b:<ending>
+VP.t:<ending> = S_r.b:<ending>
+V.t:<pre-ending> = VP.b:<pre-ending>
+VP.t:<pre-ending> = S_r.b:<pre-ending>
+
+" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . ""))) (((("V" . ""))) (((("nolayhanta" . "")))) ) ) ) 
+("S-int" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+
+
+V.t:<tense>=past
+V.t:<mode>=int
+V.t:<clause-type>=main
+V.t:<ending>=nunka
+V.t:<pre-ending>=yess
+
+V.t:<tense> = VP.b:<tense>
+VP.t:<tense> = S_r.b:<tense>
+V.t:<mode> = VP.b:<mode>
+VP.t:<mode> = S_r.b:<mode>
+V.t:<clause-type> = VP.b:<clause-type>
+VP.t:<clause-type> = S_r.b:<clause-type>
+V.t:<ending> = VP.b:<ending>
+VP.t:<ending> = S_r.b:<ending>
+V.t:<pre-ending> = VP.b:<pre-ending>
+VP.t:<pre-ending> = S_r.b:<pre-ending>" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . ""))) (((("V" . ""))) (((("nolayhayessnunka" . "")))) ) ) ) 
+("S-imp" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+
+
+V.t:<mode>=imp
+V.t:<clause-type>=main
+V.t:<ending>=yela
+
+V.t:<mode> = VP.b:<mode>
+VP.t:<mode> = S_r.b:<mode>
+V.t:<clause-type> = VP.b:<clause-type>
+VP.t:<clause-type> = S_r.b:<clause-type>
+V.t:<tense> = VP.b:<tense>
+VP.t:<tense> = S_r.b:<tense>
+
+V.t:<ending> = VP.b:<ending>
+VP.t:<ending> = S_r.b:<ending>
+V.t:<pre-ending> = VP.b:<pre-ending>
+VP.t:<pre-ending> = S_r.b:<pre-ending>
+
+" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . ""))) (((("V" . ""))) (((("nolayhayela" . "")))) ) ) ) 
+("reltree" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+
+" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("S" . "r"))) (((("NP" . ""))) (((("N" . ""))) (((("salyengkwani" . "")))) ) )  (((("VP" . "1"))) (((("NP" . "r"))) (((("S" . "c"))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "1"))) (((("NP" . "r"))) (((("DP" . ""))) (((("D" . ""))) (((("kak" . "")))) ) )  (((("NP" . "f")) :constraints "NA" :constraint-type :NA) (((("N" . ""))) (((("ceytayey" . "")))) ) ) )  (((("VP" . "0"))) (((("V" . ""))) (((("haytanghanun" . "")))) ) ) ) )  (((("NP" . "w")) :constraints "NA" :constraint-type :NA) (((("" . "w")))) ) )  (((("NP" . "f")) :constraints "NA" :constraint-type :NA) (((("N" . ""))) (((("silmwutanul" . "")))) ) ) )  (((("VP" . "0"))) (((("V" . ""))) (((("kwusenghanta" . "")))) ) ) ) ) 
+("auxderived" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+
+" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("S" . "r"))) (((("NP" . ""))) (((("N" . ""))) (((("chelswuka" . "")))) ) )  (((("VP" . "r"))) (((("VP" . "f")) :constraints "NA" :constraint-type :NA) (((("NP" . ""))) (((("N" . ""))) (((("sakwalul" . "")))) ) )  (((("VP" . "0"))) (((("V" . ""))) (((("mekko" . "")))) ) ) )  (((("V" . ""))) (((("issta" . "")))) ) ) ) 
+("complextree" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
+" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
+ (((("S" . "r"))) (((("NP" . "r"))) (((("S" . "r"))) (((("NP" . ""))) (((("N" . ""))) (((("pwuntayka" . "")))) ) )  (((("VP" . "1"))) (((("NP" . ""))) (((("N" . ""))) (((("salyengkwanul" . "")))) ) )  (((("VP" . "0"))) (((("V" . ""))) (((("pohohal" . "")))) ) ) ) )  (((("NP" . "f"))) (((("N" . ""))) (((("philyoka" . "")))) ) ) )  (((("VP" . ""))) (((("AP" . ""))) (((("A" . ""))) (((("epsta" . "")))) ) ) ) ) 

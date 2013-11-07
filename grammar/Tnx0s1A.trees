@@ -1,5 +1,4 @@
-("nx0s1A" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-A.t:<assign_case0> = AP.t:<assign_case0>
+("nx0s1A" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "A.t:<assign_case0> = AP.t:<assign_case0>
 AP.t:<assign_case0> = VP.b:<assign_case0>
 VP.t:<assign_case0> =  NP_0.t:<case>
 NP_0.t:<case> = nom
@@ -32,8 +31,7 @@ VP.t:<arg1_type> = NP_0.t:<type>
 
 " :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
  (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . ""))) (((("S" . "1")) :footp T :constraints "NA" :constraint-type :NA))  (((("AP" . ""))) (((("A" . "")) :headp T)) ) ) ) 
-("0es1A" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-A.t:<assign_case0> = AP.t:<assign_case0>
+("_s1A" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "A.t:<assign_case0> = AP.t:<assign_case0>
 AP.t:<assign_case0> = VP.b:<assign_case0>
 VP.t:<assign_case0> =  NP_0.t:<case>
 NP_0.t:<case> = nom
@@ -63,8 +61,7 @@ VP.b:<arg1_type> = VP.t:<arg1_type>
 VP.t:<arg1_type> = NP_0.t:<type>
 " :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
  (((("S" . "r"))) (((("NP" . "0"))) (((("" . "0")))) )  (((("VP" . ""))) (((("S" . "1")) :footp T :constraints "NA" :constraint-type :NA))  (((("AP" . ""))) (((("A" . "")) :headp T)) ) ) ) 
-("nx0s1ANP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-A.t:<assign_case0> = AP.t:<assign_case0>
+("nx0s1ANP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "A.t:<assign_case0> = AP.t:<assign_case0>
 AP.t:<assign_case0> = VP.b:<assign_case0>
 VP.t:<assign_case0> =  NP_0.t:<case>
 NP_0.t:<case> = nom
@@ -106,6 +103,7 @@ VP.t:<topic>=S_r.t:<topic>
 S_r.t:<topic>=NP.b:<topic>
 
 S_r.b:<clause-type> = nominal
+S_r.b:<ending>=ki/um
 
 A.t:<arg1_type> = AP.t:<arg1_type>
 AP.t:<arg1_type> =  VP.b:<arg1_type>
@@ -118,8 +116,7 @@ VP.t:<arg1_type> = NP_0.t:<type>
 
 " :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
  (((("NP" . ""))) (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . ""))) (((("S" . "1")) :substp T))  (((("AP" . ""))) (((("A" . "")) :headp T)) ) ) ) ) 
-("e0s1ANP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-A.t:<assign_case0> = AP.t:<assign_case0>
+("_s1ANP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "A.t:<assign_case0> = AP.t:<assign_case0>
 AP.t:<assign_case0> = VP.b:<assign_case0>
 VP.t:<assign_case0> =  NP_0.t:<case>
 NP_0.t:<case> = nom
@@ -160,6 +157,7 @@ VP.t:<topic>=S_r.t:<topic>
 S_r.t:<topic>=NP.b:<topic>
 
 S_r.b:<clause-type> = nominal
+S_r.b:<ending>=ki/um
 
 A.t:<arg1_type> = AP.t:<arg1_type>
 AP.t:<arg1_type> =  VP.b:<arg1_type>
@@ -167,8 +165,7 @@ VP.b:<arg1_type> = VP.t:<arg1_type>
 VP.t:<arg1_type> = NP_0.t:<type>
 " :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
  (((("NP" . ""))) (((("S" . "r"))) (((("NP" . "0"))) (((("" . "0")))) )  (((("VP" . ""))) (((("S" . "1")) :substp T))  (((("AP" . ""))) (((("A" . "")) :headp T)) ) ) ) ) 
-("nx0s1ANP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-A.t:<assign_case0> = AP.t:<assign_case0>
+("nx0s1ANP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "A.t:<assign_case0> = AP.t:<assign_case0>
 AP.t:<assign_case0> = VP.b:<assign_case0>
 VP.t:<assign_case0> =  NP_0.t:<case>
 NP_0.t:<case> = nom
@@ -208,8 +205,7 @@ VP.t:<arg1_type> = NP_0.t:<type>
 
 " :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
  (((("NP" . "r"))) (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . ""))) (((("S" . "1")) :substp T))  (((("AP" . ""))) (((("A" . "")) :headp T)) ) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
-("e0s1ANP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-A.t:<assign_case0> = AP.t:<assign_case0>
+("_s1ANP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "A.t:<assign_case0> = AP.t:<assign_case0>
 AP.t:<assign_case0> = VP.b:<assign_case0>
 VP.t:<assign_case0> =  NP_0.t:<case>
 NP_0.t:<case> = nom
@@ -243,8 +239,7 @@ VP.b:<arg1_type> = VP.t:<arg1_type>
 VP.t:<arg1_type> = NP_0.t:<type>
 " :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
  (((("NP" . "r"))) (((("S" . "r"))) (((("NP" . "0"))) (((("" . "0")))) )  (((("VP" . ""))) (((("S" . "1")) :substp T))  (((("AP" . ""))) (((("A" . "")) :headp T)) ) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
-("nx0s1Avx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-A.t:<assign_case0> = AP.t:<assign_case0>
+("nx0s1Avx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "A.t:<assign_case0> = AP.t:<assign_case0>
 AP.t:<assign_case0> = VP.b:<assign_case0>
 VP.t:<assign_case0> =  NP_0.t:<case>
 NP_0.t:<case> = nom
@@ -288,8 +283,7 @@ VP.t:<arg1_type> = NP_0.t:<type>
 
 " :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
  (((("VP" . "r"))) (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . ""))) (((("S" . "1")) :substp T))  (((("AP" . ""))) (((("A" . "")) :headp T)) ) ) )  (((("VP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
-("e0s1Avx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-A.t:<assign_case0> = AP.t:<assign_case0>
+("_s1Avx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "A.t:<assign_case0> = AP.t:<assign_case0>
 AP.t:<assign_case0> = VP.b:<assign_case0>
 VP.t:<assign_case0> =  NP_0.t:<case>
 NP_0.t:<case> = nom

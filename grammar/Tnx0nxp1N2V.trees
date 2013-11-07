@@ -1,5 +1,4 @@
-("nx0nxp1N2V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-V.t:<assign_case0> = VP.b:<assign_case0>
+("nx0nxp1N2V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "V.t:<assign_case0> = VP.b:<assign_case0>
 VP.t:<assign_case0> =  NP_0.t:<case>
 NP_0.t:<case> = nom
 NP_1.t:<case>=adv
@@ -32,9 +31,8 @@ VP.b:<arg3_type> = VP.t:<arg3_type>
 VP.t:<arg3_type> =  NP_2.t:<type>
 
 " :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
- (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . ""))) (((("NP" . "1")) :substp T))  (((("NP" . "2"))) (((("N" . "2")) :headp T)) )  (((("V" . "")) :headp T)) ) ) 
-("e0ep1N2V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-V.t:<assign_case0> = VP.b:<assign_case0>
+ (((("S" . "r")) :display-feature? T) (((("NP" . "0")) :display-feature? T :substp T))  (((("VP" . "")) :display-feature? T) (((("NP" . "1")) :display-feature? T :substp T))  (((("NP" . "2")) :display-feature? T) (((("N" . "2")) :display-feature? T :headp T)) )  (((("V" . "")) :display-feature? T :headp T)) ) ) 
+("__p1N2V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "V.t:<assign_case0> = VP.b:<assign_case0>
 VP.t:<assign_case0> =  NP_0.t:<case>
 NP_0.t:<case> = nom
 NP_1.t:<case>=adv
@@ -72,3 +70,15 @@ VP.t:<arg3_type> =  NP_2.t:<type>
 
 " :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
  (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . ""))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("NP" . "2"))) (((("N" . "2")) :headp T)) )  (((("V" . "")) :headp T)) ) ) 
+
+
+
+
+
+
+
+
+
+
+
+

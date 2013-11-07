@@ -1,0 +1,7 @@
+<<INDEX>>%s<<ENTRY>>%s<<POS>>N<<TREES>>NP
+<<INDEX>>%s<<ENTRY>>%s<<POS>>N<<FAMILY>>Tnx0NCO
+<<INDEX>>%s<<ENTRY>>%s<<POS>>A<<FAMILY>>Tnx0A
+<<INDEX>>%s<<ENTRY>>%s<<POS>>V<<FAMILY>>Tnx0V Tnx0nx1V 
+<<INDEX>>%s<<ENTRY>>%s<<POS>>AD<<TREES>>ADP-V
+<<INDEX>>%s<<ENTRY>>%s<<POS>>D<<TREES>>DP
+<<INDEX>>%s<<ENTRY>>%s<<POS>>Conj<<TREES>>NP-conj

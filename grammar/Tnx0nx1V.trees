@@ -1,6 +1,4 @@
 ("nx0nx1V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-
-
 V.t:<assign_case0> = VP_0.t:<assign_case0>
 VP_0.t:<assign_case0> = VP_1.b:<assign_case0>
 VP_1.t:<assign_case0> = NP_0.t:<case>
@@ -35,10 +33,8 @@ VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
 VP_1.t:<arg2_type> =  NP_1.t:<type> 
 
 " :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
- (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "1"))) (((("NP" . "1")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) 
-("nx0e1V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-
-
+ (((("S" . "r")) :display-feature? T) (((("NP" . "0")) :display-feature? T :substp T))  (((("VP" . "1")) :display-feature? T) (((("NP" . "1")) :display-feature? T :substp T))  (((("VP" . "0")) :display-feature? T) (((("V" . "")) :display-feature? T :headp T)) ) ) ) 
+("nx0_V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
 V.t:<assign_case0> = VP_0.t:<assign_case0>
 VP_0.t:<assign_case0> = VP_1.b:<assign_case0>
 VP_1.t:<assign_case0> = NP_0.t:<case>
@@ -73,9 +69,7 @@ V.t:<arg2_type> = VP_0.t:<arg2_type>
 VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
 VP_1.t:<arg2_type> =  NP_1.t:<type> " :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
  (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "1"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) 
-("e0nx1V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-
-
+("_nx1V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
 V.t:<assign_case0> = VP_0.t:<assign_case0>
 VP_0.t:<assign_case0> = VP_1.b:<assign_case0>
 VP_1.t:<assign_case0> = NP_0.t:<case>
@@ -109,9 +103,7 @@ V.t:<arg2_type> = VP_0.t:<arg2_type>
 VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
 VP_1.t:<arg2_type> =  NP_1.t:<type> " :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
  (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "1"))) (((("NP" . "1")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) 
-("e0e1V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-
-
+("__V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
 V.t:<assign_case0> = VP_0.t:<assign_case0>
 VP_0.t:<assign_case0> = VP_1.b:<assign_case0>
 VP_1.t:<assign_case0> = NP_0.t:<case>
@@ -146,8 +138,6 @@ VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
 VP_1.t:<arg2_type> =  NP_1.t:<type> " :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
  (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "1"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) 
 ("rg0nx1V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-
-
 V.t:<assign_case0> = VP_0.t:<assign_case0>
 VP_0.t:<assign_case0> = VP_1.b:<assign_case0>
 VP_1.t:<assign_case0> = NP_0.t:<case>
@@ -190,10 +180,8 @@ NP_f.t:<topic>=NP_r.b:<topic>
 
 NP_w.t:<chain>=NP_0.t:<chain>
 NP_w.t:<accept_mod>=-" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
- (((("NP" . "r"))) (((("S" . "c"))) (((("NP" . "w"))) (((("" . "")))) )  (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "1"))) (((("NP" . "1")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
+ (((("NP" . "r"))) (((("S" . "c"))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "1"))) (((("NP" . "1")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) )  (((("NP" . "w")) :constraints "NA" :constraint-type :NA) (((("" . "w")))) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
 ("nx0rg1V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-
-
 V.t:<assign_case0> = VP_0.t:<assign_case0>
 VP_0.t:<assign_case0> = VP_1.b:<assign_case0>
 VP_1.t:<assign_case0> = NP_0.t:<case>
@@ -236,9 +224,7 @@ NP_f.t:<topic>=NP_r.b:<topic>
 NP_w.t:<chain>=NP_1.t:<chain>
 NP_w.t:<accept_mod>=-" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
  (((("NP" . "r"))) (((("S" . "c"))) (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "1"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) )  (((("NP" . "w")) :constraints "NA" :constraint-type :NA) (((("" . "w")))) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
-("e0rg1V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-
-
+("_rg1V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
 V.t:<assign_case0> = VP_0.t:<assign_case0>
 VP_0.t:<assign_case0> = VP_1.b:<assign_case0>
 VP_1.t:<assign_case0> = NP_0.t:<case>
@@ -283,9 +269,7 @@ NP_f.t:<topic>=NP_r.b:<topic>
 NP_w.t:<chain>=NP_1.t:<chain>
 NP_w.t:<accept_mod>=-" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
  (((("NP" . "r"))) (((("S" . "c"))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "1"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) )  (((("NP" . "w")) :constraints "NA" :constraint-type :NA) (((("" . "w")))) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
-("rg0e1V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-
-
+("rg0_V" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
 V.t:<assign_case0> = VP_0.t:<assign_case0>
 VP_0.t:<assign_case0> = VP_1.b:<assign_case0>
 VP_1.t:<assign_case0> = NP_0.t:<case>
@@ -331,8 +315,6 @@ NP_w.t:<chain>=NP_0.t:<chain>
 NP_w.t:<accept_mod>=-" :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
  (((("NP" . "r"))) (((("S" . "c"))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "1"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) )  (((("NP" . "w")) :constraints "NA" :constraint-type :NA) (((("" . "w")))) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
 ("nx0nx1Vsx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-
-
 V.t:<assign_case0> = VP_0.t:<assign_case0>
 VP_0.t:<assign_case0> = VP_1.b:<assign_case0>
 VP_1.t:<assign_case0> = NP_0.t:<case>
@@ -379,9 +361,7 @@ S_f.t:<pre-ending>= S_r.b:<pre-ending>
 
 " :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
  (((("S" . "r"))) (((("S" . "c"))) (((("NP" . "0")) :substp T))  (((("VP" . "1"))) (((("NP" . "1")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) )  (((("S" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
-("e0nx1Vsx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-
-
+("_nx1Vsx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
 V.t:<assign_case0> = VP_0.t:<assign_case0>
 VP_0.t:<assign_case0> = VP_1.b:<assign_case0>
 VP_1.t:<assign_case0> = NP_0.t:<case>
@@ -427,9 +407,7 @@ S_f.t:<pre-ending>= S_r.b:<pre-ending>
 
 " :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
  (((("S" . "r"))) (((("S" . "c"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "1"))) (((("NP" . "1")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) )  (((("S" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
-("nx0e1Vsx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-
-
+("nx0_Vsx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
 V.t:<assign_case0> = VP_0.t:<assign_case0>
 VP_0.t:<assign_case0> = VP_1.b:<assign_case0>
 VP_1.t:<assign_case0> = NP_0.t:<case>
@@ -479,9 +457,7 @@ S_f.t:<pre-ending>= S_r.b:<pre-ending>
 
 " :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
  (((("S" . "r"))) (((("S" . "c"))) (((("NP" . "0")) :substp T))  (((("VP" . "1"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) )  (((("S" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
-("e0e1Vsx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-
-
+("__Vsx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
 V.t:<assign_case0> = VP_0.t:<assign_case0>
 VP_0.t:<assign_case0> = VP_1.b:<assign_case0>
 VP_1.t:<assign_case0> = NP_0.t:<case>
@@ -529,9 +505,7 @@ S_f.t:<pre-ending>= S_r.b:<pre-ending>
 
 " :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
  (((("S" . "r"))) (((("S" . "c"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "1"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) )  (((("S" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
-("e0e1VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-
-
+("__VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
 V.t:<assign_case0> = VP_0.t:<assign_case0>
 VP_0.t:<assign_case0> = VP_1.b:<assign_case0>
 VP_1.t:<assign_case0> = NP_0.t:<case>
@@ -578,6 +552,7 @@ VP_1.t:<topic> = S_r.t:<topic>
 S_r.t:<topic> = NP.b:<topic>
 
 S_r.b:<clause-type>=nominal
+S_r.b:<ending>=ki/um
 
 V.t:<arg1_type> = VP_0.t:<arg1_type>
 VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
@@ -586,10 +561,8 @@ V.t:<arg2_type> = VP_0.t:<arg2_type>
 VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
 VP_1.t:<arg2_type> =  NP_1.t:<type> 
 " :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
- (((("NP" . ""))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "1"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) ) 
-("e0nx1VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-
-
+ (((("NP" . "")) :display-feature? T) (((("S" . "r")) :display-feature? T) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")) :display-feature? T)) )  (((("VP" . "1"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")) :display-feature? T)) )  (((("VP" . "0"))) (((("V" . "")) :display-feature? T :headp T)) ) ) ) ) 
+("_nx1VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
 V.t:<assign_case0> = VP_0.t:<assign_case0>
 VP_0.t:<assign_case0> = VP_1.b:<assign_case0>
 VP_1.t:<assign_case0> = NP_0.t:<case>
@@ -636,6 +609,7 @@ VP_1.t:<top> = S_r.t:<top>
 S_r.t:<top> = NP.b:<top>
 
 S_r.b:<clause-type>=nominal
+S_r.b:<ending>=ki/um
 
 V.t:<arg1_type> = VP_0.t:<arg1_type>
 VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
@@ -644,10 +618,8 @@ V.t:<arg2_type> = VP_0.t:<arg2_type>
 VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
 VP_1.t:<arg2_type> =  NP_1.t:<type> 
 " :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
- (((("NP" . ""))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "1"))) (((("NP" . "1")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) ) 
+ (((("NP" . "")) :display-feature? T) (((("S" . "r")) :display-feature? T) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "1"))) (((("NP" . "1")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :display-feature? T :headp T)) ) ) ) ) 
 ("nx0nx1VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-
-
 V.t:<assign_case0> = VP_0.t:<assign_case0>
 VP_0.t:<assign_case0> = VP_1.b:<assign_case0>
 VP_1.t:<assign_case0> = NP_0.t:<case>
@@ -692,6 +664,7 @@ VP_1.t:<topic> = S_r.t:<topic>
 S_r.t:<topic> = NP.b:<topic>
 
 S_r.b:<clause-type>=nominal
+S_r.b:<ending>=ki/um
 
 V.t:<arg1_type> = VP_0.t:<arg1_type>
 VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
@@ -700,10 +673,8 @@ V.t:<arg2_type> = VP_0.t:<arg2_type>
 VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
 VP_1.t:<arg2_type> =  NP_1.t:<type> 
 " :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
- (((("NP" . ""))) (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "1"))) (((("NP" . "1")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) ) 
-("nx0e1VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-
-
+ (((("NP" . "")) :display-feature? T) (((("S" . "r")) :display-feature? T) (((("NP" . "0")) :substp T))  (((("VP" . "1"))) (((("NP" . "1")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :display-feature? T :headp T)) ) ) ) ) 
+("nx0_VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
 V.t:<assign_case0> = VP_0.t:<assign_case0>
 VP_0.t:<assign_case0> = VP_1.b:<assign_case0>
 VP_1.t:<assign_case0> = NP_0.t:<case>
@@ -748,6 +719,7 @@ VP_1.t:<topic> = S_r.t:<topic>
 S_r.t:<topic> = NP.b:<topic>
 
 S_r.b:<clause-type>=nominal
+S_r.b:<ending>=ki/um
 
 V.t:<arg1_type> = VP_0.t:<arg1_type>
 VP_0.t:<arg1_type> = VP_1.t:<arg1_type>
@@ -757,9 +729,7 @@ VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
 VP_1.t:<arg2_type> =  NP_1.t:<type> 
 " :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
  (((("NP" . ""))) (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "1"))) (((("NP" . "1"))) (((("" . "1")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) ) ) 
-("e0e1VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-
-
+("__VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
 NP_f.t:<case> =  NP_r.b:<case>
 NP_f.t:<aux-pp> =  NP_r.b:<aux-pp>
 NP_f.t:<adv-pp> =  NP_r.b:<adv-pp>
@@ -803,9 +773,7 @@ VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
 VP_1.t:<arg2_type> =  NP_1.t:<type> 
 " :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
  (((("NP" . "r"))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "1"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
-("e0nx1VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-
-
+("_nx1VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
 NP_f.t:<case> =  NP_r.b:<case>
 NP_f.t:<aux-pp> =  NP_r.b:<aux-pp>
 NP_f.t:<adv-pp> =  NP_r.b:<adv-pp>
@@ -850,8 +818,6 @@ VP_1.t:<arg2_type> =  NP_1.t:<type>
 " :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
  (((("NP" . "r"))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "1"))) (((("NP" . "1")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
 ("nx0nx1VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-
-
 NP_f.t:<case> =  NP_r.b:<case>
 NP_f.t:<aux-pp> =  NP_r.b:<aux-pp>
 NP_f.t:<adv-pp> =  NP_r.b:<adv-pp>
@@ -894,9 +860,7 @@ VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
 VP_1.t:<arg2_type> =  NP_1.t:<type> 
 " :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
  (((("NP" . "r"))) (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "1"))) (((("NP" . "1")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
-("nx0e1VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-
-
+("nx0_VNP" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
 NP_f.t:<case> =  NP_r.b:<case>
 NP_f.t:<aux-pp> =  NP_r.b:<aux-pp>
 NP_f.t:<adv-pp> =  NP_r.b:<adv-pp>
@@ -940,9 +904,7 @@ VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
 VP_1.t:<arg2_type> =  NP_1.t:<type> 
 " :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
  (((("NP" . "r"))) (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "1"))) (((("NP" . "1"))) (((("" . "1")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) )  (((("NP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
-("e0e1Vvx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-
-
+("__Vvx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
 VP_f.t:<assign_case0>=VP_r.b:<assign_case0>
 VP_f.t:<tense>=VP_r.b:<tense>
 VP_f.t:<mode>=VP_r.b:<mode>
@@ -990,9 +952,7 @@ VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
 VP_1.t:<arg2_type> =  NP_1.t:<type> 
 " :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
  (((("VP" . "r"))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "1"))) (((("NP" . "1")) :constraints "NA" :constraint-type :NA) (((("" . "1")))) )  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) )  (((("VP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
-("e0nx1Vvx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-
-
+("_nx1Vvx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
 VP_f.t:<assign_case0>=VP_r.b:<assign_case0>
 VP_f.t:<tense>=VP_r.b:<tense>
 VP_f.t:<mode>=VP_r.b:<mode>
@@ -1041,8 +1001,6 @@ VP_1.t:<arg2_type> =  NP_1.t:<type>
 " :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
  (((("VP" . "r"))) (((("S" . "r"))) (((("NP" . "0")) :constraints "NA" :constraint-type :NA) (((("" . "0")))) )  (((("VP" . "1"))) (((("NP" . "1")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) )  (((("VP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
 ("nx0nx1Vvx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-
-
 VP_f.t:<assign_case0>=VP_r.b:<assign_case0>
 VP_f.t:<tense>=VP_r.b:<tense>
 VP_f.t:<mode>=VP_r.b:<mode>
@@ -1089,9 +1047,7 @@ VP_0.t:<arg2_type> = VP_1.t:<arg2_type>
 VP_1.t:<arg2_type> =  NP_1.t:<type> 
 " :COMMENTS NIL :SHAPE NIL :BORDER-WIDTH NIL :CONSTRAINT-STYLE NIL :CONNECTOR NIL :DEFAULT-STYLE NIL :SUBSCRIPT-STYLE NIL :WHITE-SPACE NIL  :MINIMUM-NODE-SEPARATION NIL :LEVEL-SEPARATION NIL)
  (((("VP" . "r"))) (((("S" . "r"))) (((("NP" . "0")) :substp T))  (((("VP" . "1"))) (((("NP" . "1")) :substp T))  (((("VP" . "0"))) (((("V" . "")) :headp T)) ) ) )  (((("VP" . "f")) :footp T :constraints "NA" :constraint-type :NA)) ) 
-("nx0e1Vvx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
-
-
+("nx0_Vvx" :COMMENT-DISPLAY? NIL :FEATURE-DISPLAY? NIL :EQUATION-DISPLAY? NIL :UNIFICATION-EQUATIONS "
 VP_f.t:<assign_case0>=VP_r.b:<assign_case0>
 VP_f.t:<tense>=VP_r.b:<tense>
 VP_f.t:<mode>=VP_r.b:<mode>
