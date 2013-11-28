@@ -47,13 +47,6 @@
 		    (:default-pathname "syntax" :type "lex")
   )
 
-  (:templates-files "templates"
-
-                 (:default-pathname (concatenate 'string
-                                                 user::*english-directory*
-                                                 "syntax")
-                 :type "lex")
-  )
   (:syntax-default "syndefaults"
                   (:default-pathname "syntax" :type "dat")
   )
