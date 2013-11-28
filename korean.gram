@@ -55,6 +55,13 @@
                   :type "db")
   )
 
+  (:templates-files "templates"
+
+                 (:default-pathname (concatenate 'string
+                                                 user::*english-directory*
+                                                 "syntax")
+                 :type "lex")
+  )
   (:syntax-default "syndefaults"
                   (:default-pathname (concatenate 'string
 						  user::*korean-directory*
