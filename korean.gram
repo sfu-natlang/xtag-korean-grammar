@@ -4,51 +4,59 @@
 
 (defgrammar korean
     
-  (:default-pathname "" 
+  (:default-pathname (setf user::*korean-directory* "")
 		     :pretty-name "Korean"
 		     :start-feature "<mode> = decl/imp/int/excl/propos")
 
   (:tree-files
-           "TMisc.trees" 
-           "TModifier.trees" 
-           "TAuxverb.trees"
-           (:default-pathname "grammar" :type "trees")
+           "TMisc" 
+           "TModifier" 
+           "TAuxverb"
+           (:default-pathname (concatenate 'string
+					    user::*korean-directory*
+					    "grammar")
+	    :type "trees")
   )
 
   (:family-files 
-           "Tnx0V.trees"
-           "Tnx0nx1V.trees"
-           "Tnx0nxp1V.trees"
-           "Tnx0nxp1nx2V.trees"
-           "Tnx0nxp1N2V.trees" 
-           "Tnx0nxp1s2V.trees"
-           "Tnx0s1V.trees"
-           "Tnx0nxNOM1V.trees"
-           "Tnx0nx1CO.trees"
-           "Tnx0NCO.trees"
-           "Tnx0A.trees"
-           "Tnx0nxNOM1A.trees" 
-           "Tnx0s1A.trees"
-           "Tnx0nxp1A.trees" 
-           "Tnx0NNOMV.trees"
-           "Tnx0nx1NV.trees"
-           (:default-pathname "grammar" :type "trees")
+           "Tnx0V"
+           "Tnx0nx1V"
+           "Tnx0nxp1V"
+           "Tnx0nxp1nx2V"
+           "Tnx0nxp1N2V" 
+           "Tnx0nxp1s2V"
+           "Tnx0s1V"
+           "Tnx0nxNOM1V"
+           "Tnx0nx1CO"
+           "Tnx0NCO"
+           "Tnx0A"
+           "Tnx0nxNOM1A" 
+           "Tnx0s1A"
+           "Tnx0nxp1A" 
+           "Tnx0NNOMV"
+           "Tnx0nx1NV"
+           (:default-pathname (concatenate 'string
+					    user::*korean-directory* "grammar") :type "trees")
   )
 
   (:lexicon-files "syntax-coded"
-           (:default-pathname "syntax" :type "db")
+           (:default-pathname (concatenate 'string
+					    user::*korean-directory* "syntax") :type "db")
   )
 
   (:morphology-files "trunc_morph"
-           (:default-pathname "morphology" :type "db")
+           (:default-pathname (concatenate 'string
+					    user::*korean-directory* "morphology") :type "db")
   )
 
   (:templates-files "templates"
-		    (:default-pathname "syntax" :type "lex")
+		    (:default-pathname (concatenate 'string
+					    user::*korean-directory* "syntax") :type "lex")
   )
 
   (:syntax-default "syndefaults"
-                  (:default-pathname "syntax" :type "dat")
+                  (:default-pathname (concatenate 'string
+					    user::*korean-directory* "syntax") :type "dat")
   )
 )
 
